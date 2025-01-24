@@ -10,7 +10,7 @@
     "LoadPriority": 0,
     "Punchline": "獭獭战场助手 (在线安装Only)",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/xww2652008969/te/raw/refs/heads/master/latest.zip",
-    "DownloadLinkTesting": "https://github.com/xww2652008969/te/raw/refs/heads/master/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/xww2652008969/te/raw/refs/heads/master/latest.zip"
+    "DownloadLinkInstall": "raw.githubusercontent.com/xww2652008969/te/refs/heads/master/latest.zip",
+    "DownloadLinkTesting": "raw.githubusercontent.com/xww2652008969/te/refs/heads/master/latest.zip",
+    "DownloadLinkUpdate": "raw.githubusercontent.com/xww2652008969/te/refs/heads/master/latest.zip"
 }
