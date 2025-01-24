@@ -1,0 +1,16 @@
+{
+    "Author": "0x",
+    "Name": "0xPvpPlugin",
+    "InternalName": "0xPvpPlugin",
+    "AssemblyVersion": "7.0.2.0",
+    "Description": "",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/xww2652008969/te",
+    "DalamudApiLevel": 10,
+    "LoadPriority": 0,
+    "Punchline": "獭獭战场助手 (在线安装Only)",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/Plugins/DailyRoutines/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/Plugins/DailyRoutines/latest_test.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/Plugins/DailyRoutines/latest.zip"
+}
