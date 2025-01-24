@@ -1,4 +1,4 @@
-{
+[{
     "Author": "0x",
     "Name": "0xPvpPlugin",
     "InternalName": "0xPvpPlugin",
@@ -13,4 +13,4 @@
     "DownloadLinkInstall": "raw.githubusercontent.com/xww2652008969/te/refs/heads/master/latest.zip",
     "DownloadLinkTesting": "raw.githubusercontent.com/xww2652008969/te/refs/heads/master/latest.zip",
     "DownloadLinkUpdate": "raw.githubusercontent.com/xww2652008969/te/refs/heads/master/latest.zip"
-}
+}]
